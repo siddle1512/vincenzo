@@ -6,6 +6,7 @@ const Social = () => {
     <>
       <div className="home__social">
         <a
+          href="https://discord.gg/NCqkGjCUpv"
           className="home__social-icon"
           target="_blank"
           rel="noopener noreferrer"
